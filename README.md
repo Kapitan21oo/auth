@@ -1,8 +1,3 @@
-# tz_biotech
-
-
-
-
 Dependency installation:
 
 Make sure you have Python and its package manager pip installed. Then install the required dependencies by going to the root directory of the project and run: pip install -r requirements.txt
